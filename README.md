@@ -9,3 +9,4 @@ The Registration Form App is a user-friendly web application built with React.js
 * Responsive Design: The app is built with responsive design principles, making it accessible and usable across various devices and screen sizes.
 * Customization: The codebase is highly customizable, allowing developers to modify form fields, validation rules, and error messages according to specific requirements.
 * Scalable: Built with React.js, the app is scalable and can be extended to include additional features and functionalities in the future.
+![Web capture_3-10-2023_122353_localhost](https://github.com/Abhi9765/React-JS-Project/assets/138243988/1af95569-70e9-4999-914e-d3c1e5ddaafa)
